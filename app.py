@@ -8,7 +8,7 @@ st.header('this is header')
 st.subheader('this is subheader')
 
 # 탭 생성 : 첫번째 탭의 이름은 Tab A 로, Tab B로 표시합니다.
-tab1, tab2= st.tabs(['개요' , '데이터 탐색', 'IV 분석','의사결정나무 분석','결과 및 결론'])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(['개요' , '데이터 탐색', 'IV 분석','의사결정나무 분석','결과 및 결론'])
 
 with tab1:
   #tab A 를 누르면 표시될 내용
