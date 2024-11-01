@@ -13,7 +13,8 @@ tab1, tab2= st.tabs(['Tab A' , 'Tab B'])
 with tab1:
   #tab A 를 누르면 표시될 내용
   st.write('hello')
-
+  st.image('img1.jpg')
+  st.image('img1.jpg')
 with tab2:
   #tab B를 누르면 표시될 내용
   st.write('hi')
