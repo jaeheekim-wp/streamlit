@@ -15,15 +15,15 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs(['개요' , '데이터 탐색', 'IV 분�
 with tab1:
   #tab A 를 누르면 표시될 내용
   st.write('분석 배경')
-  st.image('3.png')
-  st.image('4.png')
-  st.image('5.png')
+  st.image('03.png')
+  st.image('04.png')
+  st.image('05.png')
 with tab2:
   #tab B를 누르면 표시될 내용
-  st.image('6.png')
-  st.image('7.png')
-  st.image('8.png')
-  st.image('9.png')
+  st.image('06.png')
+  st.image('07.png')
+  st.image('08.png')
+  st.image('09.png')
   st.image('10.png')
   st.image('11.png')
   st.image('12.png')
