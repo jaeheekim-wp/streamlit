@@ -18,6 +18,16 @@ with tab1:
 with tab2:
   #tab B를 누르면 표시될 내용
   st.write('hi')
+with tab3:
+  #tab B를 누르면 표시될 내용
+  st.write('hi')
+with tab4:
+  #tab B를 누르면 표시될 내용
+  st.write('hi')
+with tab5:
+  #tab B를 누르면 표시될 내용
+  st.write('hi')  
+  
 
 # 데이터 프레임
 import pandas as pd
